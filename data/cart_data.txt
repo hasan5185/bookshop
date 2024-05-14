@@ -1,0 +1,51 @@
+Bought ab's Book name :Sherlock Holmes
+Bought ab's Quantity  :1
+Bought ab's Price     :100 Taka
+Bought ab's Book name :Harry Potter
+Bought ab's Quantity  :1
+Bought ab's Price     :100 Taka
+Bought ab's Book name :The Exorcist
+Bought ab's Quantity  :1
+Bought ab's Price     :100 Taka
+Bought ab's Book name :The Lord of the Files
+Bought ab's Quantity  :1
+Bought ab's Price     :100 Taka
+Bought ab's Book name :The Lord of the Files
+Bought ab's Quantity  :1
+Bought ab's Price     :100 Taka
+Bought chapri's Book name :Sherlock Holmes
+Bought chapri's Quantity  :0
+Bought chapri's Price     :100 Taka
+Bought aa's Book name :Pride and Prejudice
+Bought aa's Quantity  :3
+Bought aa's Price     :100 Taka
+Bought aaa's Book name :The Godfather
+Bought aaa's Quantity  :0
+Bought aaa's Price     :100 Taka
+Bought aaa's Book name :The Godfather
+Bought aaa's Quantity  :1
+Bought aaa's Price     :100 Taka
+Bought aaa's Book name :The Lord of the Rings
+Bought aaa's Quantity  :0
+Bought aaa's Price     :100 Taka
+Bought aaa's Book name :Pride and Prejudice
+Bought aaa's Quantity  :1
+Bought aaa's Price     :100 Taka
+Bought aaa's Book name :Sherlock Holmes
+Bought aaa's Quantity  :2
+Bought aaa's Price     :100 Taka
+Bought aaa's Book name :Alice's Adventures in Wonderland
+Bought aaa's Quantity  :3
+Bought aaa's Price     :100 Taka
+Bought aaa's Book name :The Exorcist
+Bought aaa's Quantity  :2
+Bought aaa's Price     :100 Taka
+Bought aaa's Book name :It
+Bought aaa's Quantity  :2
+Bought aaa's Price     :100 Taka
+Bought aaa's Book name :To Kill a Mockingbird
+Bought aaa's Quantity  :2
+Bought aaa's Price     :100 Taka
+AAAA's Book name :The Lord of the Files
+AAAA's Quantity  :3
+AAAA's Price     :100 Taka
